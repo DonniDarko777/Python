@@ -26,3 +26,4 @@ rick= "текст"
 joni = 123
 donni = "7"
 print(rick + str(joni + int(donni))) # преобразование функций , весело )
+

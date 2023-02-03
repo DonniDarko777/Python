@@ -13,9 +13,3 @@ else:
     print(name, lastname,"Вали отсюда ","тебе :", jo)
 
 
-data = input()
-if data =="Five":
-    number = 5
-else:
-    number = 0
-print(number)    
